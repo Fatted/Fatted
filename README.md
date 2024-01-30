@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [American Food Woody [WEBSITE]](https://americanfoodwoody.com/)
 - 📫 How to reach me **damato.antonio74@gmail.com**
-- 👨‍💻 All of my projects are available at ** ...Cooming Soon...**
+- 👨‍💻 All of my projects are available at **...Cooming Soon...**
 </div>
 &nbsp
 <p align="center">
