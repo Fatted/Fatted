@@ -11,7 +11,7 @@
 &nbsp
 <p align="center">
   <div align="center">
-    <h2 align="center">Programming Languages</h2>
+    <h3 align="center">Programming Languages</h3>
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="60" height="60"/>
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="60" height="60"/>
@@ -88,4 +88,3 @@
     <a href="https://instagram.com/fatted74" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="fatted74" height="30" width="40" /></a>
     <a href = "mailto:damato.antonio74@gmail.com"><img align="center" src="https://github.com/Fatted/Fatted/assets/83971069/697ef495-efb4-4265-bea0-c31e342ccc73" height="30" width="40" /></a>
 </p>
-
