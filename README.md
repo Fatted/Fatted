@@ -4,7 +4,7 @@
   
 <img align="right" width="400" height="400" src="https://github.com/Fatted/Fatted/assets/83971069/859a99c6-49a9-4f58-996d-c059ca928794">
 
-- 🔭 I’m currently working on [RideReady]((https://github.com/Fatted/RideReady))
+- 🔭 I’m currently working on [RideReady](https://github.com/Fatted/RideReady)
 - 📫 How to reach me **damato.antonio74@gmail.com**
 - 👨‍💻 All of my projects are available at **...Cooming Soon...**
 </div>
